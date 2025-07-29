@@ -1,0 +1,37 @@
+Requerimientos de la aplicación "Calendario Semanal Escolar con Post-it"
+1. Interfaz de usuario (UI)
+Vista de calendario semanal (lunes a viernes): El calendario tendrá una vista predeterminada de lunes a viernes, con los post-its (notas) organizados para cada día.
+
+Opción para incluir domingo: Incluir un "día extra" (domingo) que solo se activaría si hay eventos o actividades programadas para ese día, de esta manera el domingo no aparecería vacío cuando no se requiera. Esta opción puede ser activada por el usuario en el calendario.
+
+Día adicional de actividades: El domingo puede aparecer como una pestaña o sección especial (por ejemplo, con un color diferente o un ícono visible solo si hay notas o actividades para ese día).
+
+Interfaz intuitiva: Permitir arrastrar y soltar las notas fácilmente, y si un evento está programado para el domingo, se podrá agregar directamente en ese día.
+
+2. Funcionalidades principales
+Creación de notas (post-it): Permitir agregar notas con texto, imágenes o enlaces a los días de la semana (lunes a viernes). Si el usuario tiene actividades para el domingo, podrá agregarlas como notas en el día de domingo.
+
+Activación de domingo: Si el usuario planea una actividad para el domingo, se puede activar una "sección del domingo" y crear notas en ese día. Si no hay actividades para el domingo, no aparecerá en la vista principal.
+
+Repetición de actividades: Las actividades o eventos se pueden programar para que se repitan en días específicos, incluyendo la opción de repetir en el domingo.
+
+Sincronización entre dispositivos: Permitir que los datos (notas, tareas, recordatorios) se sincronicen entre dispositivos móviles y PC para asegurar acceso desde cualquier plataforma.
+
+Exportación: Permitir exportar la vista de la semana (incluido el domingo si se activó) en formato PDF o imagen.
+
+3. Configuración del calendario
+Modo de calendario semanal (Lunes-Viernes): El calendario por defecto solo muestra los días de lunes a viernes, con opción de ocultar o mostrar el domingo si es necesario.
+
+Botón para agregar domingo: Si un evento o actividad se planifica para el domingo, se habilita un botón o sección especial para agregar notas en ese día.
+
+Calendario extendido: En una vista extendida o un modo de "tarea especial", el domingo podría ser un día que aparece solo si se activan actividades o tareas que se programan para ese día.
+
+4. Notificaciones y recordatorios
+Recordatorios para tareas del domingo: Cuando el domingo está activado y se agregan actividades o notas, también se pueden configurar recordatorios y notificaciones para esos eventos.
+
+Notificaciones diarias: Recordatorios para tareas o eventos programados durante la semana (lunes a viernes) y en el domingo si se activa.
+
+5. Seguridad y privacidad
+Inicio de sesión: Los usuarios pueden crear cuentas con su correo electrónico o autenticación mediante Google o Facebook para mantener sus calendarios personalizados y sincronizados.
+
+Protección de datos: Las notas y actividades estarán protegidas con cifrado, garantizando la privacidad de la información del usuario.

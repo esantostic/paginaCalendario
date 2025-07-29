@@ -1,0 +1,25 @@
+Warning: %s: Support for defaultProps will be removed from memo components in a future major release. Use JavaScript default parameters instead.%s Connect(Droppable) 
+    at div
+    at DayColumn (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/src/components/Calendar/DayColumn.tsx:21:22)
+    at div
+    at https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/src/components/Calendar/WeeklyCalendar.tsx:27:8
+    at div
+    at main
+    at div
+    at Provider (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-beautiful-dnd.js?v=d00d3f8f:1704:20)
+    at App (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-beautiful-dnd.js?v=d00d3f8f:8247:25)
+    at ErrorBoundary2 (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-beautiful-dnd.js?v=d00d3f8f:2744:35)
+    at DragDropContext (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-beautiful-dnd.js?v=d00d3f8f:8367:19)
+    at CalendarPage (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/src/pages/CalendarPage.tsx:41:7)
+    at CalendarProvider (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/src/context/CalendarContext.tsx:21:36)
+    at component
+    at Route (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=d00d3f8f:323:16)
+    at Switch (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=d00d3f8f:379:17)
+    at Router
+    at Provider (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-MV53PHM7.js?v=d00d3f8f:48:15)
+    at TooltipProvider (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=d00d3f8f:59:5)
+    at V (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/next-themes.js?v=d00d3f8f:44:25)
+    at J (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/next-themes.js?v=d00d3f8f:42:18)
+    at QueryClientProvider (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=d00d3f8f:2805:3)
+    at App
+    at CalendarProvider (https://64a0db88-8bff-4424-95b1-10c5ad5af91f-00-3rkxxag8kculr.spock.replit.dev/src/context/CalendarContext.tsx?v=VJm5K4AWoQ7oggCzmvpCx:21:36)
